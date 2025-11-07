@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dio-blog"
+name = "src"
 version = "0.1.0"
 description = ""
 authors = ["Guilherme Carvalho <gui.ifsp11@gmail.com>"]
